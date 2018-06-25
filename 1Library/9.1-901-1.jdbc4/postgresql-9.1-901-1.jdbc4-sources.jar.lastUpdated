@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jun 16 23:22:59 ALMT 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529169779596
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact postgresql\:postgresql\:jar\:sources\:9.1-901-1.jdbc4 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: Temporary failure in name resolution

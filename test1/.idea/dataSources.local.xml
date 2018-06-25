@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="joob@localhost" uuid="cc9c0a5a-55a5-42b8-81ab-5465f410dca4">
+      <database-info product="MySQL" version="10.0.34-MariaDB-0ubuntu0.16.04.1" jdbc-version="4.2" driver-name="MariaDB connector/J" driver-version="2.2.1">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <user-name>root</user-name>
+      <introspection-schemas>*:joob</introspection-schemas>
+    </data-source>
+  </component>
+</project>
